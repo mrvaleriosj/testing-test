@@ -1,0 +1,7 @@
+{
+  "cve": "CVE-2026-34040",
+  "hostname": "WM-IT-21-00008ui-MacBookAir.local",
+  "results": [
+    {"env":"None","ver":"-","status":"No Docker Found"}
+  ]
+}
